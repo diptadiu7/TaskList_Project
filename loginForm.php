@@ -40,7 +40,7 @@
             //$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             
             // Retrieve user from DB and verify against login credentials.
-            // Only unique username must be permitted.
+            // Only unique username must be permitted
             $sql = "
             SELECT username, password
             FROM users
