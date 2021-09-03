@@ -109,7 +109,7 @@
         </div>
 
         <form>
-            <p> <!-- create account -->
+            <p> <!-- create ID -->
                 No account yet? <a href="signUp.php"> Sign Up!</a>
             </p>
         </form>
