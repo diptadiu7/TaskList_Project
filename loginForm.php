@@ -6,7 +6,7 @@
 
     declare(strict_types = 1);
 
-    // TODO: Start session tracking    
+    // TODO: Start session trackin   
     error_reporting(E_ALL);
     ini_set('display_errors', '1');
     
@@ -109,7 +109,7 @@
         </div>
 
         <form>
-            <p> <!-- create account -->
+            <p> <!-- create ID-->
                 No account yet? <a href="signUp.php"> Sign Up!</a>
             </p>
         </form>
